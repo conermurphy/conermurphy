@@ -16,7 +16,7 @@
 
 ## Latest Content
 
-### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> Latest YouTube Videos </a>
+### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos </a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
