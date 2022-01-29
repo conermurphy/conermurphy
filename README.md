@@ -1,8 +1,8 @@
-### Hey there 👋, I'm Coner
-
 <!-- Actual Text -->
 
 <img src="https://github.com/conermurphy/conermurphy/blob/main/header.png" title="Header Banner" alt="Header Banner"/>&emsp;
+
+## Hey there 👋, I'm Coner
 
 ## Let's Connect 💬
 
@@ -21,7 +21,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-### <a href="https://www.twitch.tv/conermurphy"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/></a> Latest Twitch Livestreams
+### <a href="https://www.twitch.tv/conermurphy"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</a>
 
 <!-- TWITCH-VIDEOS-LIST:START -->
 <!-- TWITCH-VIDEOS-LIST:END -->
