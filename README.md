@@ -4,7 +4,7 @@
 
 ## Hey there 👋, I'm Coner
 
-## Let's Connect 💬
+## 💬 Let's Connect
 
 <a href="https://twitter.com/MrConerMurphy"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 &ensp;<a href="https://www.twitch.tv/conermurphy"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
@@ -14,7 +14,7 @@
 &ensp;<a href="https://github.com/conermurphy"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
-## Latest Content
+## 🎨 Latest Content
 
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos </a>
 
@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## <a href="https://github.com/conermurphy"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="30"/></a> Latest Activity on GitHub
+## <a href="https://github.com/conermurphy"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
