@@ -16,17 +16,17 @@
 
 ## 🎨 Latest Content
 
-### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos </a>
+### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><u><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</u></a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-### <a href="https://www.twitch.tv/conermurphy"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</a>
+### <a href="https://www.twitch.tv/conermurphy"><u><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</u></a>
 
 <!-- TWITCH-VIDEOS-LIST:START -->
 <!-- TWITCH-VIDEOS-LIST:END -->
 
-### <a href="https://conermurphy.com/blog">📝 Latest Blog Posts</a>
+### <a href="https://conermurphy.com/blog"><u>📝 Latest Blog Posts</u></a>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
