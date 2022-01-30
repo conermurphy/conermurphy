@@ -2,7 +2,7 @@
 
 <img src="https://github.com/conermurphy/conermurphy/blob/main/header.png" title="Header Banner" alt="Header Banner"/>&emsp;
 
-## Hey there 👋, I'm Coner
+# Hey there 👋, I'm Coner
 
 ## 💬 Let's Connect
 
