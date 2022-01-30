@@ -66,6 +66,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/FrancescoXX/FrancescoXX/pull/4) in [FrancescoXX/FrancescoXX](https://github.com/FrancescoXX/FrancescoXX)
 <!--END_SECTION:activity-->
 
 ## 🖥 Most used Languages
