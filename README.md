@@ -14,6 +14,8 @@
 &ensp;<a href="https://github.com/conermurphy"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
+<a href="https://twitter.com/MrConerMurphy"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.twitch.tv/conermurphy"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;<a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+
 ## 🎨 Latest Content
 
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
