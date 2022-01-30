@@ -29,6 +29,11 @@
 ### <a href="https://conermurphy.com/blog">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Twitter Analytics Terms You Need to Know to Grow an Audience in 2021](https://conermurphy.com/blog/6-twitter-analytics-terms-need-know-grow-audience-2021/)
+- [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages/)
+- [The Complete 2021 Guide to HTTP Status Codes and Their SEO Influence](https://conermurphy.com/blog/complete-2021-guide-to-http-status-codes-seo-influence/)
+- [Truthy and Falsy Values Explained](https://conermurphy.com/blog/truthy-falsy-values-explained/)
+- [How to Add Page Transition Animations to GatsbyJS Using Framer Motion](https://conermurphy.com/blog/page-transition-animations-gatsbyjs-framer-motion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
