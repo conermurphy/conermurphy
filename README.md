@@ -34,11 +34,12 @@ If this sounds interesting, I'd love to connect with you. You can contact me via
 
 ## 🎨 Latest Content
 
-Check out my latest content from <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer">Twitch</a> and <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">my Blog.</a>
+Check out my latest content from my <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer">Twitch</a> and <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">Blog.</a>
 
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+
 - [Making a Custom Ghost Theme From Scratch #3 - Code Club #7](https://www.youtube.com/watch?v=q87aSqPTv_o)
 - [Developing a Custom Ghost Theme #2 - Code Club #6](https://www.youtube.com/watch?v=k7ahwbzD42E)
 - [Designing - Building a Custom Ghost Theme #1 - Code Club #5](https://www.youtube.com/watch?v=zBMFK83CMek)
@@ -54,6 +55,7 @@ Check out my latest content from <a href="https://www.youtube.com/channel/UCKbxB
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [6 Twitter Analytics Terms You Need to Know to Grow an Audience in 2021](https://conermurphy.com/blog/6-twitter-analytics-terms-need-know-grow-audience-2021/)
 - [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages/)
 - [The Complete 2021 Guide to HTTP Status Codes and Their SEO Influence](https://conermurphy.com/blog/complete-2021-guide-to-http-status-codes-seo-influence/)
