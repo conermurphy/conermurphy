@@ -4,7 +4,21 @@
 
 <img src="https://github.com/conermurphy/conermurphy/blob/main/header.png" title="Header Banner" alt="Header Banner"/>&emsp;
 
-## 💬 Let's Connect
+I'm a Web Developer and Software Engineer from the United Kingdom.
+
+I also build products in public, I'm currently building my first SaaS for Twitter Analytics called StatBase.
+
+Outside of hands-on coding, I also create content to help other developers. This is a via a few mediums such as:
+
+- <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">My Blog.</a> and external blogs I've guest posted on.
+- <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">My YouTube Channel</a>
+- Livestreams on <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer">Twitch.tv</a>
+- <a href="https://anchor.fm/devspace/" target="_blank" rel="noopener noreffer">DevSpace (Twitter Space Series/Podcast)</a>
+- <a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer">Twitter Content</a>
+
+I also write a weekly Newsletter sharing what I'm currently working on, problems I'm facing and anything else I believe could be helpful.
+
+If this sounds interesting, I'd love to connect with you. You can contact me via any of the links below 👇
 
 <a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 &ensp;<a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a>
@@ -14,9 +28,13 @@
 &ensp;<a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
-<a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"></a><a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2"></a><a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+---
+
+<a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"></a>&nbsp;<a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2"></a><a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
 ## 🎨 Latest Content
+
+Check out my latest content from <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer">Twitch</a> and <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">my Blog.</a>
 
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
