@@ -1,8 +1,8 @@
 <!-- Actual Text -->
 
-<img src="https://github.com/conermurphy/conermurphy/blob/main/header.png" title="Header Banner" alt="Header Banner"/>&emsp;
-
 # Hey there 👋, I'm Coner
+
+<img src="https://github.com/conermurphy/conermurphy/blob/main/header.png" title="Header Banner" alt="Header Banner"/>&emsp;
 
 ## 💬 Let's Connect
 
@@ -29,6 +29,7 @@
 ### <a href="https://conermurphy.com/blog">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [6 Twitter Analytics Terms You Need to Know to Grow an Audience in 2021](https://conermurphy.com/blog/6-twitter-analytics-terms-need-know-grow-audience-2021/)
 - [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages/)
 - [The Complete 2021 Guide to HTTP Status Codes and Their SEO Influence](https://conermurphy.com/blog/complete-2021-guide-to-http-status-codes-seo-influence/)
