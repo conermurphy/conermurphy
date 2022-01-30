@@ -16,7 +16,7 @@ Outside of hands-on coding, I also create content to help other developers. This
 - <a href="https://anchor.fm/devspace/" target="_blank" rel="noopener noreffer">DevSpace (Twitter Space Series/Podcast)</a>
 - <a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer">Twitter Content</a>
 
-I also write a weekly Newsletter sharing what I'm currently working on, problems I'm facing and anything else I believe could be helpful.
+I also write a weekly <a href="https://coner-murphy.ck.page/374544b3ae" target="_blank" rel="noopener noreferrer">Newsletter</a> sharing what I'm currently working on, problems I'm facing and anything else I believe could be helpful.
 
 If this sounds interesting, I'd love to connect with you. You can contact me via any of the links below 👇
 
