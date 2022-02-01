@@ -72,6 +72,6 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 ## 🖥 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conermurphy&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Coner's GitHub stats](https://github-readme-stats.vercel.app/api?username=conermurphy&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conermurphy&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
