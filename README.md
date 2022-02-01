@@ -40,7 +40,7 @@ I use various technologies in my work but below are my favourites and what I go-
 <img src="https://github.com/conermurphy/conermurphy/blob/main/react-icon.png" title="React Logo" alt="React Logo" width="75"/>&emsp;
 <img src="https://github.com/conermurphy/conermurphy/blob/main/nextjs-logo.png" title="Next.js Logo" alt="Next.js Logo" width="150"/>&emsp;
 <img src="https://github.com/conermurphy/conermurphy/blob/main/graphql-logo.png" title="GraphQL Logo" alt="GraphQL Logo" width="150"/>&emsp;
-<img src="https://github.com/conermurphy/conermurphy/blob/main/tailwindcss-logo.svg" title="tailwindcss Logo" alt="tailwindcss Logo" width="150"/>&emsp;
+<img src="https://github.com/conermurphy/conermurphy/blob/main/tailwindcss-logo-white.svg" title="tailwindcss Logo" alt="tailwindcss Logo" width="150"/>&emsp;
 
 ## 🎨 Latest Content
 
