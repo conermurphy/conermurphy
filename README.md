@@ -32,6 +32,16 @@ If this sounds interesting, I'd love to connect with you. You can contact me via
 
 <a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"></a>&nbsp;<a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2"></a><a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
+## 🛠️ Tech Stack
+
+I use various technologies in my work but below are my favourites and what I go-to for any new projects I undertake.
+
+<img src="https://github.com/conermurphy/conermurphy/blob/main/ts-logo.png" title="TypeScript Logo" alt="TypeScript Logo" width="150"/>&emsp;
+<img src="https://github.com/conermurphy/conermurphy/blob/main/nextjs-logo.png" title="Next.js Logo" alt="Next.js Logo" width="150"/>&emsp;
+<img src="https://github.com/conermurphy/conermurphy/blob/main/react-icon.png" title="React Logo" alt="React Logo" width="150"/>&emsp;
+<img src="https://github.com/conermurphy/conermurphy/blob/main/graphql-logo.png" title="GraphQL Logo" alt="GraphQL Logo" width="150"/>&emsp;
+<img src="https://github.com/conermurphy/conermurphy/blob/main/tailwindcss-logo.svg" title="tailwindcss Logo" alt="tailwindcss Logo" width="150"/>&emsp;
+
 ## 🎨 Latest Content
 
 Check out my latest content from my <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">YouTube</a>, <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer">Twitch</a> and <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">Blog.</a>
