@@ -6,7 +6,7 @@
 
 I'm a Web Developer and Software Engineer from the United Kingdom.
 
-I also build products in public, I'm currently building my first SaaS for Twitter Analytics called StatBase.
+I also build products in public, I'm currently building my first SaaS for Twitter Analytics called [StatBase](https://www.statbase.io).
 
 Outside of hands-on coding, I also create content to help other developers. This is a via a few mediums such as:
 
