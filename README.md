@@ -30,17 +30,13 @@ If this sounds interesting, I'd love to connect with you. You can contact me via
 
 ---
 
-<a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"></a>&nbsp;<a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2"></a><a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>&nbsp;<a href="https://www.github.com/conermurphy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/conermurphy?logo=github&style=for-the-badge&color=1DA1F2" /></a>
+<a href="https://twitter.com/MrConerMurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MrConerMurphy?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2&labelColor=111827"></a>&nbsp;<a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/conermurphy?style=for-the-badge&logo=twitch&color=8a43f2&labelColor=111827"></a>&nbsp;<a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKbxBnz1xuyGAPMCOZQRdVw?style=for-the-badge&logo=youtube&label=YOUTUBE&labelColor=111827"></a>&nbsp;<a href="https://www.github.com/conermurphy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/conermurphy?logo=github&style=for-the-badge&color=F97316&labelColor=111827" /></a>
 
 ## 🛠️ Tech Stack
 
 I use various technologies in my work but below are my favourites and what I go-to for any new projects I undertake.
 
-<img src="https://github.com/conermurphy/conermurphy/blob/main/ts-logo.png" title="TypeScript Logo" alt="TypeScript Logo" width="75"/>&emsp;
-<img src="https://github.com/conermurphy/conermurphy/blob/main/react-icon.png" title="React Logo" alt="React Logo" width="75"/>&emsp;
-<img src="https://github.com/conermurphy/conermurphy/blob/main/nextjs-logo.png" title="Next.js Logo" alt="Next.js Logo" width="150"/>&emsp;
-<img src="https://github.com/conermurphy/conermurphy/blob/main/graphql-logo.png" title="GraphQL Logo" alt="GraphQL Logo" width="150"/>&emsp;
-<img src="https://github.com/conermurphy/conermurphy/blob/main/tailwindcss-logo-white.svg" title="tailwindcss Logo" alt="tailwindcss Logo" width="150"/>&emsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=111827"/>&nbsp;<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23fca9ae.svg?style=for-the-badge&logo=javascript&logoColor=F97316&color=111827"/>&nbsp;<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=F97316&color=111827"/>&nbsp;<img alt="Next.js" src="https://img.shields.io/badge/next.js-%23fca9ae.svg?style=for-the-badge&logo=next.js&logoColor=F97316&color=111827"/>&nbsp;<img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23fca9ae.svg?style=for-the-badge&logo=graphql&logoColor=F97316&color=111827"/>&nbsp;<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23fca9ae.svg?style=for-the-badge&logo=tailwindcss&logoColor=F97316&color=111827"/>&nbsp;<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23fca9ae.svg?style=for-the-badge&logo=javascript&logoColor=F97316&color=111827"/>&nbsp;<img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=F97316&color=111827"/>&nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=F97316&color=111827"/>&nbsp;<img alt="CSS3" src="https://img.shields.io/badge/css3-%23fca9ae.svg?style=for-the-badge&logo=css3&logoColor=F97316&color=111827"/>&nbsp;<img alt="Figma" src="https://img.shields.io/badge/figma-%23fca9ae.svg?style=for-the-badge&logo=figma&logoColor=F97316&color=111827"/>&nbsp;<img alt="Jest" src="https://img.shields.io/badge/jest-%23fca9ae.svg?style=for-the-badge&logo=jest&logoColor=F97316&color=111827"/>&nbsp;<img alt="ESLint" src="https://img.shields.io/badge/eslint-%23fca9ae.svg?style=for-the-badge&logo=eslint&logoColor=F97316&color=111827"/>&nbsp;
 
 ## 🎨 Latest Content
 
@@ -75,7 +71,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#51](https://github.com/conermurphy/conermurphy.com/pull/51) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. 🎉 Merged PR [#50](https://github.com/conermurphy/conermurphy.com/pull/50) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
