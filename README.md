@@ -71,7 +71,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/conermurphy/conermurphy/issues/3) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+1. 💪 Opened PR [#168](https://github.com/conermurphy/conermurphy.com/pull/168) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
