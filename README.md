@@ -60,11 +60,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a flicker-free dark theme toggle with Next.js, TailwindCSS, and `next-themes`](https://conermurphy.com/blog/make-flicker-free-dark-theme-toggle-nextjs-tailwindcss-next-themes)
 - [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages)
 - [6 Twitter Analytics Terms You Need to Know to Grow an Audience in 2021](https://conermurphy.com/blog/6-twitter-analytics-terms-need-know-grow-audience-2021)
 - [The Complete 2021 Guide to HTTP Status Codes and Their SEO Influence](https://conermurphy.com/blog/complete-2021-guide-to-http-status-codes-seo-influence)
 - [JavaScript Fundamentals: Truthy and Falsy Values Explained](https://conermurphy.com/blog/truthy-falsy-values-explained)
-- [How to Add Page Transition Animations to GatsbyJS Using Framer Motion](https://conermurphy.com/blog/page-transition-animations-gatsbyjs-framer-motion)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
