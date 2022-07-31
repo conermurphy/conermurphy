@@ -71,7 +71,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#37](https://github.com/conermurphy/squares/issues/37) in [conermurphy/squares](https://github.com/conermurphy/squares)
+1. ❗️ Closed issue [#20](https://github.com/conermurphy/squares/issues/20) in [conermurphy/squares](https://github.com/conermurphy/squares)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
