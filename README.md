@@ -61,7 +61,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Automatically Publish and Maintain an NPM Package Using `semantic-release`](https://conermurphy.com/blog/automatically-publish-maintain-npm-package-semantic-release)
-- [How to make a flicker-free dark theme toggle with Next.js, TailwindCSS, and next-themes](https://conermurphy.com/blog/make-flicker-free-dark-theme-toggle-nextjs-tailwindcss-next-themes)
+- [How to Make a Flicker-free Dark Theme Toggle With Next.Js, Tailwindcss, and `next-themes`](https://conermurphy.com/blog/make-flicker-free-dark-theme-toggle-nextjs-tailwindcss-next-themes)
 - [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages)
 - [6 Twitter Analytics Terms You Need to Know to Grow an Audience in 2021](https://conermurphy.com/blog/6-twitter-analytics-terms-need-know-grow-audience-2021)
 - [The Complete 2021 Guide to HTTP Status Codes and Their SEO Influence](https://conermurphy.com/blog/complete-2021-guide-to-http-status-codes-seo-influence)
