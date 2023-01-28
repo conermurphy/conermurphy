@@ -60,7 +60,6 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Dynamically Wrapping Strings in HTML Tags Using ReactJS and Regex](https://conermurphy.com/blog/dynamically-wrap-strings-html-tags-using-reactjs-regex)
 - [How to Automatically Publish and Maintain an NPM Package Using `semantic-release`](https://conermurphy.com/blog/automatically-publish-maintain-npm-package-semantic-release)
 - [How to Make a Flicker-free Dark Theme Toggle With Next.Js, Tailwindcss, and `next-themes`](https://conermurphy.com/blog/make-flicker-free-dark-theme-toggle-nextjs-tailwindcss-next-themes)
