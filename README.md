@@ -59,11 +59,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Trigger a Lambda Function From Another Lambda Function Using an AWS EventBridge Event Bus](https://conermurphy.com/blog/trigger-lambda-function-from-lambda-via-eventbridge-event-bus)
 - [How to Build a Contact Form With Next.js and AWS](https://conermurphy.com/blog/how-to-build-a-contact-form-with-nextjs-and-aws)
 - [Dynamically Wrapping Strings in HTML Tags Using ReactJS and Regex](https://conermurphy.com/blog/dynamically-wrap-strings-html-tags-using-reactjs-regex)
 - [How to Automatically Publish and Maintain an NPM Package Using `semantic-release`](https://conermurphy.com/blog/automatically-publish-maintain-npm-package-semantic-release)
 - [How to Make a Flicker-free Dark Theme Toggle With Next.Js, Tailwindcss, and `next-themes`](https://conermurphy.com/blog/make-flicker-free-dark-theme-toggle-nextjs-tailwindcss-next-themes)
-- [3 Reasons Why You Need to Design Components and Not Pages](https://conermurphy.com/blog/3-reasons-why-you-need-design-components-not-pages)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
