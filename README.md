@@ -59,7 +59,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Money by Using Compression to Store Attribute Values in Dynamodb.](https://conermurphy.com/blog/save-money-using-compression-to-store-attribute-values-in-dynamodb)
+- [How to Save Money by Using Compression to Store Attribute Values in DynamoDB](https://conermurphy.com/blog/save-money-using-compression-to-store-attribute-values-in-dynamodb)
 - [How I Setup a JavaScript Repository for Clean, Reusable, and Efficient Development](https://conermurphy.com/blog/setup-a-javascript-repository-for-clean-reusable-efficient-development)
 - [How to Trigger a Lambda Function From Another Lambda Function Using an AWS EventBridge Event Bus](https://conermurphy.com/blog/trigger-lambda-function-from-lambda-via-eventbridge-event-bus)
 - [How to Build a Contact Form With Next.js and AWS](https://conermurphy.com/blog/how-to-build-a-contact-form-with-nextjs-and-aws)
