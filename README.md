@@ -44,11 +44,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Automatically publish and maintain NPM packages using semantic-release](https://www.youtube.com/watch?v=0Z0nAJjmQRg)
 - [5 Lessons From My First Product Hunt Launch!](https://www.youtube.com/watch?v=-6JKfVZrRXQ)
 - [Making a Custom Ghost Theme From Scratch #3 - Code Club #7](https://www.youtube.com/watch?v=q87aSqPTv_o)
 - [Developing a Custom Ghost Theme #2 - Code Club #6](https://www.youtube.com/watch?v=k7ahwbzD42E)
 - [Designing - Building a Custom Ghost Theme #1 - Code Club #5](https://www.youtube.com/watch?v=zBMFK83CMek)
-- [Refactoring Codebase - Freelance Web Dev Website - Code Club #4](https://www.youtube.com/watch?v=KJxt9ycDVho)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</a>
