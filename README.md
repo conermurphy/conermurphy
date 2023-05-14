@@ -44,11 +44,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Making Environment Variables Effortless to Use in AWS CDK Stacks!](https://www.youtube.com/watch?v=yJ74jWIH3rc)
 - [Effortlessly Invoke AWS Services Using the EventBridge Scheduler Via the AWS CDK!](https://www.youtube.com/watch?v=hIJ6KIMUl6w)
 - [Make Your Lambda Functions Run Like Clockwork With cron Jobs!](https://www.youtube.com/watch?v=cv9V4b6Yp7g)
 - [How To Automate Your AWS CDK Stack Deployment with GitHub Actions](https://www.youtube.com/watch?v=7pLzamZZKaE)
 - [Automatically publish and maintain NPM packages using semantic-release](https://www.youtube.com/watch?v=0Z0nAJjmQRg)
-- [5 Lessons From My First Product Hunt Launch!](https://www.youtube.com/watch?v=-6JKfVZrRXQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</a>
