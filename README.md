@@ -63,7 +63,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 - [How to Update a DNS Record on a Route 53 Hosted Zone Using a Lambda Function &amp; AWS SDK](https://conermurphy.com/blog/update-dns-record-route-53-lambda-aws-sdk)
 - [Making Environment Variables Effortless to Use in AWS CDK Stacks!](https://conermurphy.com/blog/making-environment-variables-effortless-aws-cdk-stacks)
 - [Invoking Lambda Functions Via DNS Requests With a Route 53 Hosted Zone Using the AWS CDK](https://conermurphy.com/blog/route53-hosted-zone-lambda-dns-invocation-aws-cdk)
-- [Scheduling Events in AWS with the EventBridge Scheduler and CDK](https://conermurphy.com/blog/aws-eventbridge-scheduler-cdk)
+- [Scheduling Events in AWS with the EventBridge Scheduler and AWS CDK](https://conermurphy.com/blog/aws-eventbridge-scheduler-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
