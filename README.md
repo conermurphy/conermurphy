@@ -59,11 +59,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Undefined Environment Variable &lpar;ENV&rpar; Type Issues in TypeScript](https://conermurphy.com/blog/fixing-undefined-environment-variable-type-issues-typescript)
 - [Accurately Typing DynamoDB Data from the AWS SDK using TypeScript](https://conermurphy.com/blog/typing-dynamodb-data-typescript-aws-sdk)
 - [Handling Contact Forms Submissions With a Custom REST API using AWS SES, API Gateway, and Lambda](https://conermurphy.com/blog/rest-api-contact-forms-aws-ses-api-gateway-lambda-aws-cdk-guide)
 - [Reducing Latency: Pre-Warming Lambda Functions with EventBridge Rules](https://conermurphy.com/blog/pre-warming-lambda-functions-eventbridge-rules)
 - [How to Create a GraphQL API: Step-by-Step Guide with AppSync and DynamoDB Using the AWS CDK](https://conermurphy.com/blog/graphql-api-guide-aws-appsync-dynamodb-aws-cdk)
-- [How to Build a REST API With the AWS CDK Using API Gateway, Lambda, and Dynamodb With API Key Authentication](https://conermurphy.com/blog/build-rest-api-aws-cdk-api-gateway-lambda-dynamodb-api-key-authentication)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
