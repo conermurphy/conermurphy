@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#45](https://github.com/Salable/cli/pull/45) in [Salable/cli](https://github.com/Salable/cli)
+1. 💪 Opened PR [#40](https://github.com/Salable/node-sdk/pull/40) in [Salable/node-sdk](https://github.com/Salable/node-sdk)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
