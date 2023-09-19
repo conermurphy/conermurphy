@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#271](https://github.com/conermurphy/conermurphy.com/pull/271) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. ❗ Opened issue [#402](https://github.com/hashicorp/next-mdx-remote/issues/402) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
