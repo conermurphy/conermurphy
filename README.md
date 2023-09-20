@@ -6,9 +6,9 @@
 
 I'm a Fullstack Developer and Software Engineer from the United Kingdom.
 
-I'm also active in the tech indie hacker community building products like [Squares](https://squares.so) and [Harken](https://harken.so).
+I'm also active in the tech indie hacker community building products such as [Harken](https://harken.so) and [Crossable](https://crossable.io).
 
-Outside of hands-on coding, I also create content to help other developers. This is a via a few mediums such as:
+Outside of hands-on coding, I also create content to help other developers. This is via a few mediums such as:
 
 - <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">My Blog.</a> and external blogs I've guest posted on.
 - <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">My YouTube Channel</a>
