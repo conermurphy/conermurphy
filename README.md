@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#621](https://github.com/localtunnel/localtunnel/issues/621) in [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+1. 🎉 Merged PR [#272](https://github.com/conermurphy/conermurphy.com/pull/272) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
