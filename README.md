@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#278](https://github.com/conermurphy/conermurphy.com/pull/278) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. 💪 Opened PR [#4](https://github.com/conermurphy/nextjs-13-app-router-tutorial/pull/4) in [conermurphy/nextjs-13-app-router-tutorial](https://github.com/conermurphy/nextjs-13-app-router-tutorial)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
