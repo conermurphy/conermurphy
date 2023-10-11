@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#283](https://github.com/conermurphy/conermurphy.com/pull/283) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. 💪 Opened PR [#32](https://github.com/Salable/js-sdk/pull/32) in [Salable/js-sdk](https://github.com/Salable/js-sdk)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
