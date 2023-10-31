@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/conermurphy/cdk-tutorials/issues/2#issuecomment-1786862124) in [conermurphy/cdk-tutorials](https://github.com/conermurphy/cdk-tutorials)
+1. 🎉 Merged PR [#2](https://github.com/Salable/salable-trello-js/pull/2) in [Salable/salable-trello-js](https://github.com/Salable/salable-trello-js)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
