@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/conermurphy/cdk-tutorials/issues/2) in [conermurphy/cdk-tutorials](https://github.com/conermurphy/cdk-tutorials)
+1. 💪 Opened PR [#288](https://github.com/conermurphy/conermurphy.com/pull/288) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
