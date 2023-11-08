@@ -59,11 +59,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Throttling API Keys in an API Gateway REST API using Usage Plans](https://conermurphy.com/blog/api-gateway-usage-plans-api-key-throttling)
 - [Building a GraphQL API With TypeScript Resolvers Using AWS AppSync and CDK](https://conermurphy.com/blog/graphql-api-typescript-resolvers-aws-appsync-cdk)
 - [Using Presigned URLs in a Next.js App Router Project to Upload Files to an AWS S3 Bucket](https://conermurphy.com/blog/presigned-urls-nextjs-s3-upload)
 - [How to Build a SaaS Product with Next.js App Router, Clerk, AWS DynamoDB and Stripe](https://conermurphy.com/blog/building-saas-product-nextjs-app-router-clerk-aws-dynamodb-stripe)
 - [Implementing Auth.js &lpar;NextAuth.js&rpar; Into a Next.js App Router Application](https://conermurphy.com/blog/implementing-authjs-nextauthjs-nextjs-app-router-application)
-- [How to Fix Undefined Environment Variable &lpar;ENV&rpar; Type Issues in TypeScript](https://conermurphy.com/blog/fixing-undefined-environment-variable-type-issues-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
