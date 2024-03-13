@@ -59,11 +59,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://conermurphy.com/blog" target="_blank" rel="noopener noreferrer">📝 Latest Blog Posts</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Environment Variables with AWS AppSync via the AWS CDK](https://conermurphy.com/blog/aws-asppsync-cdk-environment-variables)
 - [Shifting from AWS Lambda to AWS ECS/Fargate: A Migration Guide](https://conermurphy.com/blog/aws-lambda-to-ecs-fargate-migration-guide)
 - [How to Build a REST API With SST: Is It Better Than the AWS CDK?](https://conermurphy.com/blog/build-rest-api-with-sst-better-than-aws-cdk)
 - [Starting an Existing Fargate Service Using Lambda and the AWS SDK](https://conermurphy.com/blog/start-existing-fargate-service-lambda-aws-sdk)
 - [Leveraging AWS WAF to Throttle API Gateway Rest API Requests](https://conermurphy.com/blog/aws-waf-throttle-api-gateway-rest-api-requests)
-- [Image Generation and Storage using Stable Diffusion, AWS Bedrock, and TypeScript](https://conermurphy.com/blog/image-generation-stable-diffusion-aws-bedrock-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
