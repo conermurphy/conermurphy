@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#291](https://github.com/conermurphy/conermurphy.com/pull/291) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. ❗ Opened issue [#108](https://github.com/nvim-neotest/neotest-jest/issues/108) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
