@@ -44,11 +44,11 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get more clients by this doing 1️⃣ thing!](https://www.youtube.com/watch?v=H7eJbTkdLKE)
 - [Set Up Next.js &lpar;App Router&rpar; Authentication in Minutes with Clerk!](https://www.youtube.com/watch?v=ShJdlKD6xNc)
 - [How To Accurately Type DynamoDB Data from the AWS SDK using TypeScript](https://www.youtube.com/watch?v=o7_U_ogmLvA)
 - [DynamoDB &amp; Next.js App Router: Using Server/Client Components](https://www.youtube.com/watch?v=LP8ml_S7xAI)
 - [How to build and test a REST API using AWS API Gateway, Lambda, and DynamoDB via the AWS CDK!](https://www.youtube.com/watch?v=2WuLSLdgvDw)
-- [Road to Profitability 1: Introducing Crossable](https://www.youtube.com/watch?v=mCSp8cISnIo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### <a href="https://www.twitch.tv/conermurphy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="50"/> Latest Twitch Livestreams</a>
