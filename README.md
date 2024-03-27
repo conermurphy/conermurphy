@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#108](https://github.com/nvim-neotest/neotest-jest/issues/108) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+1. ❌ Closed PR [#4](https://github.com/conermurphy/nextjs-13-app-router-tutorial/pull/4) in [conermurphy/nextjs-13-app-router-tutorial](https://github.com/conermurphy/nextjs-13-app-router-tutorial)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
