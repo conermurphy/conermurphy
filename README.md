@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#114](https://github.com/nvim-neotest/neotest-jest/issues/114) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+1. 💪 Opened PR [#295](https://github.com/conermurphy/conermurphy.com/pull/295) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
