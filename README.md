@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#46](https://github.com/nvim-neotest/neotest-jest/issues/46#issuecomment-2039956042) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+1. 🗣 Commented on [#46](https://github.com/nvim-neotest/neotest-jest/issues/46#issuecomment-2041028908) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
