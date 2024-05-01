@@ -62,7 +62,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 - [Master DynamoDB Integration Testing with Vitest and Docker: A Step-by-Step Guide](https://conermurphy.com/blog/master-dynamodb-integration-testing-vitest-docker-guide)
 - [Configuring DKIM/SPF For AWS SES Email Addresses Using The AWS CDK! Stop Emails Going to Spam and Protect Your Domain!](https://conermurphy.com/blog/configuring-dkim-spf-aws-ses-cdk-spam-prevention-email-protection)
 - [Automatically Create an AWS API Gateway REST API and Related TypeScript Types via an OpenAPI Specification and AWS CDK](https://conermurphy.com/blog/create-aws-api-gateway-rest-api-typescript-types-via-openapi-aws-cdk)
-- [How to Build Your Own ChatGPT Clone Using Clerk &amp; AWS Bedrock](https://conermurphy.com/blog/how-to-build-your-own-chatgpt-clone-using-clerk-aws-bedrock)
+- [How to Build Your Own ChatGPT Clone Using React &amp; AWS Bedrock](https://conermurphy.com/blog/how-to-build-your-own-chatgpt-clone-using-clerk-aws-bedrock)
 - [Integrating Environment Variables with AWS AppSync via the AWS CDK](https://conermurphy.com/blog/aws-asppsync-cdk-environment-variables)
 <!-- BLOG-POST-LIST:END -->
 
