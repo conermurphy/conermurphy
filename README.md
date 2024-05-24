@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#53](https://github.com/Salable/cli/pull/53) in [Salable/cli](https://github.com/Salable/cli)
+1. 🗣 Commented on [#12](https://github.com/Salable/react-sdk/pull/12#issuecomment-2129657172) in [Salable/react-sdk](https://github.com/Salable/react-sdk)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
