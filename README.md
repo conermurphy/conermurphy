@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#138](https://github.com/Salable/Salable-Web-Components/pull/138) in [Salable/Salable-Web-Components](https://github.com/Salable/Salable-Web-Components)
+1. 💪 Opened PR [#2](https://github.com/Salable/Salable-Web-Components-Svelte-Demo/pull/2) in [Salable/Salable-Web-Components-Svelte-Demo](https://github.com/Salable/Salable-Web-Components-Svelte-Demo)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
