@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Salable/Salable-React-Web-Components-Nextjs-Demo/pull/3) in [Salable/Salable-React-Web-Components-Nextjs-Demo](https://github.com/Salable/Salable-React-Web-Components-Nextjs-Demo)
+1. 💪 Opened PR [#1](https://github.com/conermurphy/clerk-react-router/pull/1) in [conermurphy/clerk-react-router](https://github.com/conermurphy/clerk-react-router)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
