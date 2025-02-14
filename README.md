@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/conermurphy/clerk-react-router/pull/1) in [conermurphy/clerk-react-router](https://github.com/conermurphy/clerk-react-router)
+1. 💪 Opened PR [#151](https://github.com/Salable/Salable-Web-Components/pull/151) in [Salable/Salable-Web-Components](https://github.com/Salable/Salable-Web-Components)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
