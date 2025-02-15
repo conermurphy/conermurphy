@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#151](https://github.com/Salable/Salable-Web-Components/pull/151) in [Salable/Salable-Web-Components](https://github.com/Salable/Salable-Web-Components)
+1. ❗ Opened issue [#1451](https://github.com/better-auth/better-auth/issues/1451) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
