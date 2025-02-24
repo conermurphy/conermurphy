@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1451](https://github.com/better-auth/better-auth/issues/1451#issuecomment-2663893835) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🎉 Merged PR [#151](https://github.com/Salable/Salable-Web-Components/pull/151) in [Salable/Salable-Web-Components](https://github.com/Salable/Salable-Web-Components)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
