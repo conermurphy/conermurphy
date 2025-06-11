@@ -44,10 +44,10 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 ### <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> Latest YouTube Videos</a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build a SaaS product with me : Week 2️⃣! #saas #technology #development #coding](https://www.youtube.com/watch?v=xK90PPwyNN4)
+- [Build a SaaS product with me : Week 2️⃣! #saas #technology #development #coding](https://www.youtube.com/shorts/xK90PPwyNN4)
 - [Master DynamoDB Integration Testing with Vitest and Docker!](https://www.youtube.com/watch?v=beKv00y1b70)
 - [AWS Bedrock Text and Image Generation Tutorial &lpar;AWS SDK&rpar;](https://www.youtube.com/watch?v=e1NsGRsBIqc)
-- [Get more clients by this doing 1️⃣ thing!](https://www.youtube.com/watch?v=H7eJbTkdLKE)
+- [Get more clients by this doing 1️⃣ thing!](https://www.youtube.com/shorts/H7eJbTkdLKE)
 - [Set Up Next.js &lpar;App Router&rpar; Authentication in Minutes with Clerk!](https://www.youtube.com/watch?v=ShJdlKD6xNc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
