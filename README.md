@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#302](undefined) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. ❗ Opened issue [#1](https://github.com/conermurphy/github-webhook-listener-demo/issues/1) in [conermurphy/github-webhook-listener-demo](https://github.com/conermurphy/github-webhook-listener-demo)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
