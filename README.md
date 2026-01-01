@@ -70,7 +70,7 @@ Check out my latest content from my <a href="https://www.youtube.com/channel/UCK
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#304](undefined) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
+1. 🎉 Merged PR [#304](https://github.com/conermurphy/conermurphy.com/pull/304) in [conermurphy/conermurphy.com](https://github.com/conermurphy/conermurphy.com)
 <!--END_SECTION:activity-->
 
 ## 🖥 GitHub Stats
