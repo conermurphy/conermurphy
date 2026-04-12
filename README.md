@@ -70,7 +70,7 @@ The tools I currently reach for on new projects:
 </a>
 &ensp;
 <a href="https://www.youtube.com/channel/UCKbxBnz1xuyGAPMCOZQRdVw" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/youtube-6.svg" title="YouTube" alt="YouTube" width="36"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" title="YouTube" alt="YouTube" width="36"/>
 </a>
 &ensp;
 <a href="https://www.linkedin.com/in/conermurphy/" target="_blank" rel="noopener noreferrer">
