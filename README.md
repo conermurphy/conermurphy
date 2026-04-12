@@ -47,27 +47,7 @@ Advanced automation and organisation tools for Todoist. Make your task managemen
 
 The tools I currently reach for on new projects:
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="AWS" src="https://img.shields.io/badge/aws-%23fca9ae.svg?style=for-the-badge&logo=amazonaws&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23fca9ae.svg?style=for-the-badge&logo=postgresql&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="Kysely" src="https://img.shields.io/badge/kysely-%23fca9ae.svg?style=for-the-badge&logo=databricks&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23fca9ae.svg?style=for-the-badge&logo=tailwindcss&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="SST" src="https://img.shields.io/badge/sst-%23fca9ae.svg?style=for-the-badge&logo=serverless&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="Docker" src="https://img.shields.io/badge/docker-%23fca9ae.svg?style=for-the-badge&logo=docker&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="Playwright" src="https://img.shields.io/badge/playwright-%23fca9ae.svg?style=for-the-badge&logo=playwright&logoColor=E6806B&color=FFFDF5"/>
-&ensp;
-<img alt="Vitest" src="https://img.shields.io/badge/vitest-%23fca9ae.svg?style=for-the-badge&logo=vitest&logoColor=E6806B&color=FFFDF5"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="AWS" src="https://img.shields.io/badge/aws-%23fca9ae.svg?style=for-the-badge&logo=amazonaws&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23fca9ae.svg?style=for-the-badge&logo=postgresql&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="Kysely" src="https://img.shields.io/badge/kysely-%23fca9ae.svg?style=for-the-badge&logo=databricks&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23fca9ae.svg?style=for-the-badge&logo=tailwindcss&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="SST" src="https://img.shields.io/badge/sst-%23fca9ae.svg?style=for-the-badge&logo=serverless&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="Docker" src="https://img.shields.io/badge/docker-%23fca9ae.svg?style=for-the-badge&logo=docker&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="Playwright" src="https://img.shields.io/badge/playwright-%23fca9ae.svg?style=for-the-badge&logo=playwright&logoColor=E6806B&color=FFFDF5"/>&ensp;<img alt="Vitest" src="https://img.shields.io/badge/vitest-%23fca9ae.svg?style=for-the-badge&logo=vitest&logoColor=E6806B&color=FFFDF5"/>
 
 ---
 
