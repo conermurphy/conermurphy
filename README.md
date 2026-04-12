@@ -54,10 +54,6 @@ The tools I currently reach for on new projects:
 ## 📊 GitHub Stats
 
 <a href="http://www.github.com/conermurphy">
-  <img src="https://github-readme-stats.vercel.app/api?username=conermurphy&show_icons=true&hide=&count_private=true&title_color=E6806B&text_color=E6806B&icon_color=E6806B&bg_color=FFFDF5&hide_border=true&show_icons=true" alt="conermurphy's GitHub stats" />
-</a>
-&nbsp;
-<a href="http://www.github.com/conermurphy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=conermurphy&stroke=E6806B&background=FFFDF5&ring=E6806B&fire=E6806B&currStreakNum=E6806B&currStreakLabel=E6806B&sideNums=E6806B&sideLabels=E6806B&dates=E6806B&hide_border=true" />
 </a>
 
