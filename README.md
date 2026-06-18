@@ -34,11 +34,11 @@ Advanced automation and organisation tools for Todoist. Make your task managemen
 ## 🎬 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Lambda Concurrency Explained! #aws #developer #development #tech #coding](https://www.youtube.com/shorts/Fd9IizME1zA)
 - [Build a SaaS product with me : Week 2️⃣! #saas #technology #development #coding](https://www.youtube.com/shorts/xK90PPwyNN4)
 - [Master DynamoDB Integration Testing with Vitest and Docker!](https://www.youtube.com/watch?v=beKv00y1b70)
 - [AWS Bedrock Text and Image Generation Tutorial &lpar;AWS SDK&rpar;](https://www.youtube.com/watch?v=e1NsGRsBIqc)
 - [Get more clients by this doing 1️⃣ thing!](https://www.youtube.com/shorts/H7eJbTkdLKE)
-- [Set Up Next.js &lpar;App Router&rpar; Authentication in Minutes with Clerk!](https://www.youtube.com/watch?v=ShJdlKD6xNc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
