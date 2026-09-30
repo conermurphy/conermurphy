@@ -22,11 +22,11 @@ Advanced automation and organisation tools for Todoist. Make your task managemen
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitigating npm Supply Chain Attacks with pnpm, GitHub Actions and Dependabot](https://conermurphy.com/blog/mitigating-npm-supply-chain-attacks-with-pnpm/)
 - [Listen to Webhooks Locally, An AWS-Native Approach](https://conermurphy.com/blog/listen-to-webhooks-locally-aws-native-approach/)
 - [Implementing Envelope Encryption with AWS KMS in TypeScript](https://conermurphy.com/blog/implementing-envelope-encryption-with-aws-kms-typescript/)
 - [Master DynamoDB Integration Testing with Vitest and Docker: A Step-by-Step Guide](https://conermurphy.com/blog/master-dynamodb-integration-testing-vitest-docker-guide/)
 - [Configuring DKIM/SPF For AWS SES Email Addresses Using The AWS CDK! Stop Emails Going to Spam and Protect Your Domain!](https://conermurphy.com/blog/configuring-dkim-spf-aws-ses-cdk-spam-prevention-email-protection/)
-- [Automatically Create an AWS API Gateway REST API and Related TypeScript Types via an OpenAPI Specification and AWS CDK](https://conermurphy.com/blog/create-aws-api-gateway-rest-api-typescript-types-via-openapi-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
